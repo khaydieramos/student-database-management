@@ -85,7 +85,7 @@ See [`sql/example_queries.sql`](sql/example_queries.sql) for additional queries.
 
 Relational schema design · Primary/foreign keys · Composite keys · SQL joins · Aggregate functions
 
-## 👩‍💻 Author
+## 👩🏾‍💻 Author
 
 **Khaydie Ramos** — [GitHub](https://github.com/khaydieramos)
 
